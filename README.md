@@ -13,5 +13,5 @@
 
 
 <h2>Deploy do projeto</h2>
-<img src="assets/Captura de tela de 2024-02-07 21-23-38.png">
+<img src="assets/Captura de tela de 2024-04-11 08-21-18.png">
 <a href="https://portifolio-hazel-seven.vercel.app/">Portifólio</a>
